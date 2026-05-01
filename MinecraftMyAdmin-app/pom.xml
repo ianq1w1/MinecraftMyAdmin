@@ -27,27 +27,13 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>25</java.version>
 	</properties>	
 
 
 
 
 	<dependencies>
-		
-		<dependency>
-			<groupId>org.nukkit</groupId>
-			<artifactId>leveldb</artifactId>
-			<version>1.0-SNAPSHOT</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/libs/nukkit-leveldb-1.0-SNAPSHOT.jar</systemPath>
-		</dependency>
-		<dependency>
-				<groupId>org.iq80.leveldb</groupId>
-				<artifactId>leveldb</artifactId>
-				<version>0.12</version>
-		</dependency>
-
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

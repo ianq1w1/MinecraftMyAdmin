@@ -1,0 +1,4 @@
+localSchedule.ps1
+postgres.py
+serverStatus.py
+testeETL.py
